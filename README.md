@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Computer Science Engineer | AI & ML Enthusiast | Web Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Female Developer Animation"/>
 </p>
 
 ---
@@ -53,27 +53,3 @@ An intelligent, gesture-responsive robot that automates plant health monitoring 
 - **Enterprise Grade AI** – IBM  
 
 ---
-
-### 🌐 Connect with Me
-<p align="left">
-<a href="mailto:aqsavalli@gmail.com"><img src="https://img.shields.io/badge/Email-aqsavalli%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/aqsavalli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Aqsa-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://github.com/Aqsavalli" target="_blank"><img src="https://img.shields.io/badge/GitHub-Aqsavalli-black?style=for-the-badge&logo=github"></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aqsavalli&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aqsavalli&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 Fun Quote
-> “The best way to predict the future is to create it.” — *Alan Kay*
-
----
-
-<p align="center">✨ Thanks for visiting my profile! Have a great day! ✨</p>
