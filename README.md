@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Computer Science Engineer | AI & ML Enthusiast | Web Developer</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Female Developer Animation"/>
+  <img src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://chatgpt.com/s/m_68ec920a44288191939c86a8d708fbf0)" width="400" alt="Female Developer Animation"/>
 </p>
 
 ---
