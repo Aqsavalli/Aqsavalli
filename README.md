@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">🌸 Hi there! I'm <span style="color:#E91E63;">Kondakamarla Aqsa</span> 👋</h1>
+<h1 align="center">✨ Hi there! I'm <span style="color:#E91E63;">Kondakamarla Aqsa</span> 👋</h1>
 <h3 align="center">💻 Passionate AI & ML Enthusiast | Web Developer | Creative Problem Solver</h3>
 
 <p align="center">
