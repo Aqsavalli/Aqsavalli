@@ -78,7 +78,7 @@ An intelligent, gesture-responsive robot for **plant health monitoring and maint
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aqsavalli&show_icons=true&theme=radical" alt="Aqsa's GitHub Stats" width="48%">
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aqsavalli&theme=radical" alt="GitHub Streak" width="48%">
 </p>
 
