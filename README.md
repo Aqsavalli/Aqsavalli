@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">✨ Hi there! I'm <span style="color:#E91E63;">Kondakamarla Aqsa</span> 👋</h1>
-<h3 align="center">💻 Passionate AI & ML Enthusiast | Web Developer | Creative Problem Solver</h3>
+<h3 align="center">💻 Passionate Full Stack Developer | Java Developer | Creative Problem Solver</h3>
 
 <p align="center">
   <img src="https://github.com/Aqsavalli/Aqsavalli/blob/main/assets/techie-muslim-girl.gif" width="350" alt="Techie Muslim Girl Animation"/>
